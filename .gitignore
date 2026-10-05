@@ -5,3 +5,7 @@ out
 !.env.example
 *.tsbuildinfo
 .DS_Store
+
+
+# Files
+IvoireChat_cahier_des_charges.md
